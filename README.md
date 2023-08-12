@@ -1,2 +1,35 @@
-# tresenraya
-Ejercicio PAC de desarrollo de Des. de Interfaces - Tres en raya
+# [![tresenraya](https://github.com/Zafion/PAC_Ap_Gest_Gastos/blob/main/recursos/java_36.png)](https://github.com/Zafion/PAC_Tres_En_Raya) Tres en raya
+
+Desarrollado con Java usando el IDE Apache Netbeans.
+
+Trabajo de desarrollo realizado durante la formación del tercer semestre del Ciclo Superior De Desarrollo De Aplicaciones Multiplataforma.
+Corresponde a la asignatura de Desarrollo de Interfaces.
+
+La práctica consiste en realizar un tres en raya, completando los métodos y la parte lógica del juego.
+
+[![Captura](https://github.com/Zafion/PAC_Tres_En_Raya/blob/main/recursos/Captura1.JPG)](https://github.com/Zafion/PAC_Tres_En_Raya/blob/main/recursos/Captura1.JPG)
+
+Las instrucciones en detalle del ejercicio se pueden consultar en el archívo 1s2223Enunciado_PAC_Desarrollo.pdf
+
+</br>
+
+## Tecnologías usadas:
+
+[![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+
+</br>
+
+## Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_Montanana_Llopis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-monta%C3%B1ana-llopis-116941172/)
+
+[![Sitio web](https://img.shields.io/badge/zafion.github.io-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://zafion.github.io/)
+
+</br>
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/Email-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:zafion@gmail.com)
+
+</br>
