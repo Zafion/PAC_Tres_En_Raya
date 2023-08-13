@@ -1,15 +1,15 @@
 # [![tresenraya](https://github.com/Zafion/PAC_Ap_Gest_Gastos/blob/main/recursos/java_36.png)](https://github.com/Zafion/PAC_Tres_En_Raya) Tres en raya
 
-Desarrollado con Java usando el IDE Apache Netbeans.
+Desarrollado con Java utilizando el IDE Apache NetBeans.
 
-Trabajo de desarrollo realizado durante la formación del tercer semestre del Ciclo Superior De Desarrollo De Aplicaciones Multiplataforma.
+Trabajo de desarrollo realizado durante el tercer semestre del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 Corresponde a la asignatura de Desarrollo de Interfaces.
 
-La práctica consiste en realizar un tres en raya, completando los métodos y la parte lógica del juego.
+La práctica consiste en realizar un juego de tres en raya, completando los métodos y la parte lógica del juego.
 
 [![Captura](https://github.com/Zafion/PAC_Tres_En_Raya/blob/main/recursos/Captura1.JPG)](https://github.com/Zafion/PAC_Tres_En_Raya/blob/main/recursos/Captura1.JPG)
 
-Las instrucciones en detalle del ejercicio se pueden consultar en el archívo 1s2223Enunciado_PAC_Desarrollo.pdf
+Las instrucciones en detalle del ejercicio se pueden consultar en el archivo: https://github.com/Zafion/PAC_Tres_En_Raya/blob/main/1s2223Enunciado_PAC_Desarrollo.pdf
 
 </br>
 
